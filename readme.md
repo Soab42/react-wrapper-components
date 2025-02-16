@@ -1,8 +1,6 @@
 # React Wrapper Components
 
-![npm version](https://img.shields.io/npm/v/react-wrapper-components)
-![downloads](https://img.shields.io/npm/dm/react-wrapper-components)
-![license](https://img.shields.io/npm/l/react-wrapper-components)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/react-wrapper-components/blob/main/LICENSE)
 ![GitHub stars](https://img.shields.io/github/stars/Soab42/react-wrapper-components?style=social)
 
 A professional collection of React wrapper components designed for modern web applications. Built with performance, accessibility, and developer experience in mind.
