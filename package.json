@@ -1,0 +1,38 @@
+{
+  "name": "react-wrapper-component",
+  "version": "1.0.1",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rollup -c",
+    "prepare": "npm run build"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.26.9",
+    "@babel/preset-env": "^7.26.9",
+    "@babel/preset-react": "^7.26.3",
+    "@rollup/plugin-babel": "^6.0.4",
+    "@rollup/plugin-node-resolve": "^16.0.0",
+    "@rollup/plugin-commonjs": "^28.0.2",
+    "rollup": "^4.34.7"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "wrapper"
+  ],
+  "author": "Soab Mahmud Syfuddhin",
+  "license": "MIT",
+  "description": "A React component wrapper package."
+}
