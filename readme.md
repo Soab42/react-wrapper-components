@@ -3,7 +3,7 @@
 ![npm version](https://img.shields.io/npm/v/react-wrapper-components)
 ![downloads](https://img.shields.io/npm/dm/react-wrapper-components)
 ![license](https://img.shields.io/npm/l/react-wrapper-components)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/react-wrapper-components?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Soab42/react-wrapper-components?style=social)
 
 A professional collection of React wrapper components designed for modern web applications. Built with performance, accessibility, and developer experience in mind.
 
@@ -152,7 +152,7 @@ function App() {
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/react-wrapper-components.git
+git clone https://github.com/Soab42/react-wrapper-components.git
 
 # Install dependencies
 npm install
@@ -203,10 +203,10 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## 🆘 Support
 
-- 📧 Email: <support@example.com>
-- 🐛 [Report a bug](https://github.com/yourusername/react-wrapper-components/issues)
-- 💡 [Request a feature](https://github.com/yourusername/react-wrapper-components/issues)
-- 💬 [Discord community](https://discord.gg/yourdiscord)
+- 📧 Email: <syfuddhin@gmail.com>
+- 🐛 [Report a bug](https://github.com/Soab42/react-wrapper-components/issues)
+- 💡 [Request a feature](https://github.com/Soab42/react-wrapper-components/issues)
+- 💬 [Discord community](https://discord.gg/soab42)
 
 ## 🙏 Acknowledgments
 
@@ -216,4 +216,4 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ---
 
-<p align="center">Made with ❤️ by Your Name</p>
+<p align="center">Made with ❤️ by Soab Mahmud Syfuddhin</p>
