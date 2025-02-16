@@ -1,6 +1,6 @@
 {
   "name": "react-wrapper-component",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "files": [
@@ -34,5 +34,13 @@
   ],
   "author": "Soab Mahmud Syfuddhin",
   "license": "MIT",
-  "description": "A React component wrapper package."
+  "description": "A React component wrapper package.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Soab42/react-wrapper-components.git"
+  },
+  "homepage": "https://github.com/Soab42/react-wrapper-components#readme",
+  "bugs": {
+    "url": "https://github.com/Soab42/react-wrapper-components/issues"
+  }
 }
